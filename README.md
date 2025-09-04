@@ -20,6 +20,7 @@ Located in the `gmail/` folder, this section covers:
 * Sending and receiving test emails
 
 ✅ Screenshots and explanations included in the `screenshots/` folder
+
 ✅ Detailed documentation in the Gmail `README.md`
 
 ---
@@ -35,6 +36,7 @@ Located in the `google-calendar/` folder, this section covers:
 * Weekly and daily view navigation
 
 ✅ Screenshots included for visual reference
+
 ✅ Practice steps clearly documented in the `README.md`
 
 ---
@@ -89,5 +91,6 @@ All files are carefully organized for clarity and easy navigation.
 
 **Emmanuel Chukwuka Origbo**
 Virtual Assistant | Data Entry Expert | IT Support
+
 GitHub: [origboec](https://github.com/origboec)
 
