@@ -1,6 +1,7 @@
 
 
-📇 **Microsoft Outlook Contacts – Virtual Assistant Practice Project**
+📇 **Microsoft Outlook Contacts – Virtual Assistant Practice Project.**
+
 This project demonstrates practical contact management tasks using Microsoft Outlook’s People feature, as part of a Virtual Assistant’s day-to-day responsibilities.
 
 📂 **Folder Structure**
@@ -9,10 +10,15 @@ This project demonstrates practical contact management tasks using Microsoft Out
 * This README.md file documenting all steps
 
 📌 **Tasks Completed**
+
 ✅ Accessed Microsoft Outlook People (Contacts) section (01-people-section.png)
+
 ✅ Created a new contact with full details (02-created-new-contact.png)
+
 ✅ Edited the contact with updated information (03-edited-contact.png)
+
 ✅ Added a contact to favorites for quick access (04-added-to-favorites.png)
+
 ✅ Created a contact list (group) and added contacts (05-created-contact-list.png)
 
 🛠 **Tools Used**
